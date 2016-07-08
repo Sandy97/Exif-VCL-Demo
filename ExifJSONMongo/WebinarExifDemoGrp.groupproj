@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{D7B72914-A820-4B08-81A4-F4ED179B0D3B}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="C:\_RADdeveloping\Exif\FileExif.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\_RADdeveloping\Exif\dirfileslist.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\VCL Demos\ExifList\ExifListXE.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ExifMongoQueryApp.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="FileExif">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\FileExif.dproj"/>
+    </Target>
+    <Target Name="FileExif:Clean">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\FileExif.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FileExif:Make">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\FileExif.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="dirfileslist">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\dirfileslist.dproj"/>
+    </Target>
+    <Target Name="dirfileslist:Clean">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\dirfileslist.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="dirfileslist:Make">
+        <MSBuild Projects="C:\_RADdeveloping\Exif\dirfileslist.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExifListXE">
+        <MSBuild Projects="C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\VCL Demos\ExifList\ExifListXE.dproj"/>
+    </Target>
+    <Target Name="ExifListXE:Clean">
+        <MSBuild Projects="C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\VCL Demos\ExifList\ExifListXE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExifListXE:Make">
+        <MSBuild Projects="C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\VCL Demos\ExifList\ExifListXE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ExifMongoQueryApp">
+        <MSBuild Projects="ExifMongoQueryApp.dproj"/>
+    </Target>
+    <Target Name="ExifMongoQueryApp:Clean">
+        <MSBuild Projects="ExifMongoQueryApp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExifMongoQueryApp:Make">
+        <MSBuild Projects="ExifMongoQueryApp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="FileExif;dirfileslist;ExifListXE;ExifMongoQueryApp"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="FileExif:Clean;dirfileslist:Clean;ExifListXE:Clean;ExifMongoQueryApp:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="FileExif:Make;dirfileslist:Make;ExifListXE:Make;ExifMongoQueryApp:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

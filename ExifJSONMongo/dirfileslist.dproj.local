@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.TiffUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,C:\_RADdeveloping\Exif\DUALLIST.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,=C:\_RADdeveloping\Exif\DUALLIST.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\_RADdeveloping\Exif\Unit5.pas=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\_RADdeveloping\Exif\myUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,C:\_RADdeveloping\Exif\ExifExtractor.pas=C:\_RADdeveloping\Exif\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=emsserverapi.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\_RADdeveloping\Exif\ExifWRTLoader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.XMPUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\_RADdeveloping\Exif\dirfileslist.dproj=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\dirfileslist.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,=C:\_RADdeveloping\Exif\ExifMongoHelper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,C:\_RADdeveloping\Exif\ExifLoadrer.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=C:\_RADdeveloping\Exif\ExifLoadrer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.IPTC.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.BaseUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\_RADdeveloping\Exif\Unit5.dfm=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\_RADdeveloping\Exif\ExifLoadrer.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.Consts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\VCL Demos\CCR.Exif.Demos.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,C:\_RADdeveloping\Exif\ConvertersUtils.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,=C:\_RADdeveloping\Exif\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\_RADdeveloping\Exif\Unit1.pas=C:\_RADdeveloping\Exif\ExifLoadrer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\_RADdeveloping\Exif\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,=C:\_RADdeveloping\Exif\ConvertersUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.JpegUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\asovtsov\Documents\Embarcadero\Studio\Projects\dirfileslist.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.StreamHelper.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,=C:\_RADdeveloping\Exif\ConvertersUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\_RADdeveloping\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.TagIDs.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pabc iOSSimulator="iPhone5"/>
+		<NoProfile Android="36E6R16301000407"/>
+	</ActiveMobileDevice>
+</BorlandProject>
