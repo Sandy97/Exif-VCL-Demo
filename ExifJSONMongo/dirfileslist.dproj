@@ -95,8 +95,8 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Unit5.pas">
-            <Form>Form1</Form>
+        <DCCReference Include="uDirFileList.pas">
+            <Form>fmDirFileList</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <DCCReference Include="..\CCR Exif v1.5.1\CCR Exif v1.5.1\CCR.Exif.pas"/>
